@@ -105,6 +105,7 @@ An awesome list of events and fellowship opportunities for computer science stud
  * [BaseCS](https://medium.com/basecs) - Explains computer science basics in easy-to-digest articles. Also in [podcast](https://www.codenewbie.org/basecs) format.
  * [Tutorials Point](http://tutorialspoint.com) - tutorials for technologies like web, mobile and many more.
  * [Introduction to Computer Science - CS101](https://classroom.udacity.com/courses/cs101/) - introduction to computer science in python language. 
+ * [CS50's Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) - An introduction to the intellectual enterprises of computer science and the art of programming.
 
  ### Open Source
 
